@@ -1,0 +1,37 @@
+{
+    "title": " Scaling Lightning Panel - Lightning++ Berlin 2025",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/2025-berlin",
+    "source_file": "https://www.youtube.com/watch?v=oFDaC_2WjP0",
+    "media": "https://www.youtube.com/watch?v=oFDaC_2WjP0",
+    "categories": null,
+    "chapters": [],
+    "description": "Sign up for one of our upcoming dev conf at https://btcpp.dev\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2026-01-21",
+    "youtube": {
+        "description": "Sign up for one of our upcoming dev conf at https://btcpp.dev\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_chunks": [
+        "deepgram_chunk_1_of_4_2026-02-22T232846Z.json",
+        "deepgram_chunk_2_of_4_2026-02-22T232911Z.json",
+        "deepgram_chunk_3_of_4_2026-02-22T232933Z.json",
+        "deepgram_chunk_4_of_4_2026-02-22T232943Z.json"
+    ],
+    "deepgram_output": "deepgram_2026-02-22T232944Z.json"
+}

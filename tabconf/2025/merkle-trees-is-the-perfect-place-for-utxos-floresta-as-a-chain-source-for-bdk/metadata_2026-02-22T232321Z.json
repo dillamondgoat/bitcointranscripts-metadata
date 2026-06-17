@@ -1,0 +1,38 @@
+{
+    "title": " Merkle Trees is the Perfect Place for UTXOs: Floresta as a Chain Source for BDK",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "tabconf/2025",
+    "source_file": "https://www.youtube.com/watch?v=KHQFxNoRmpo",
+    "media": "https://www.youtube.com/watch?v=KHQFxNoRmpo",
+    "categories": null,
+    "chapters": [],
+    "description": "\ud83d\udccc Learn more about this talk on GitHub: \u2b50\ufe0f\ud83d\udc19\nhttps://github.com/TABConf/7.tabconf.com/issues/33\n\n\ud83c\udf31\ud83e\uddf0 Explore bdk-floresta\nA work in progress BDK chain source crate that uses floresta-chain + floresta-wire to run a local, trustless node and wallet directly on your device \ud83d\udcf2\ud83e\uddf1\nPerfect for mobile and low spec setups \u26a1\ufe0f\n\n\ud83e\udde0 What this talk covers\n\ud83c\udf33 Utreexo 101\nMerkle proofs, validation, and bridge nodes\n\ud83d\udd0d How Floresta leverages Utreexo and how it differs from utreexod\n\ud83c\udfd7\ufe0f A clear BDK architecture overview\n\ud83c\udfac Live demo\nCreating and syncing a wallet using the crate \u2705\n\n\ud83c\udfaf If you\u2019re a dev or a Bitcoin enthusiast who wants lightweight, self contained wallets that can run anywhere, this one\u2019s for you \ud83d\udee0\ufe0f\ud83d\udfe0\n\n\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\n\n\ud83d\udfe0 TABConf is a technical Bitcoin conference built for builders. We bring protocol + application devs together to collaborate, debate, and push Bitcoin forward. \ud83e\udde0\ud83d\udd27\n\n\ud83c\udfa5 On this channel you\u2019ll find:\n\ud83d\udde3\ufe0f Full talks \u2022 \ud83e\uddd1\u200d\ud83c\udfeb workshops \u2022 \ud83e\udde9 panels\n\ud83d\udee0\ufe0f Builder Days sessions \u2022 \ud83d\udd0d deep dives on:\n\ud83e\uddf1 Bitcoin Core \u2022 \u26a1\ufe0f Lightning \u2022 \ud83d\udd75\ufe0f privacy \u2022 \ud83d\udd10 security \u2022 \ud83e\uddf0 the tooling teams ship with\n\n\ud83c\udf9f\ufe0f TABConf 8 tickets are on sale now!\n\ud83d\uddd3\ufe0f Oct 12\u201315, 2026 \u2022 \ud83d\udccd Atlanta, GA\n\ud83c\udfdb\ufe0f Georgia Tech Exhibition Hall\n\n\ud83c\udfab TABConf 8 Tickets\n\ud83d\udfe0 Pay with Bitcoin: https://checkout.opennode.com/p/7d51f71f-f3e6-4159-bbfa-3a231d14e5b8\n\n\ud83d\udcb3 Pay with Stripe: https://buy.stripe.com/00w4gzapSf0o4ubg2mdQQ0b\n\n\ud83c\udf10 TABConf Website\nhttps://tabconf.com\n\n\ud83d\udd17 All links hub\nhttps://linktr.ee/tabconf\n\n\ud83e\udec2 TABConf Community\n\ud83d\udcac Discord: https://discord.gg/TRaX8M7amU\n\n\ud83d\udc26 Follow us on X\nhttps://x.com/tabconf\n\n\ud83c\udfa7 Subscribe to the TABConf Podcast\n\ud83c\udf4e Apple Podcasts: https://podcasts.apple.com/us/podcast/tabconf-sessions/id1867836916\n\n\ud83d\udfe2 Spotify: https://open.spotify.com/show/11Ram7ccTjBeiwhYoDVtF4?si=ec8bab9fdc2945cd\n\n\u26f2\ufe0f Fountain: https://fountain.fm/show/fqYiANm1II8INYOodXaj\n\n\u2b50\ufe0f Star us on GitHub\n\ud83d\udc19 https://github.com/TABConf",
+    "date": "2025-10-31",
+    "youtube": {
+        "description": "\ud83d\udccc Learn more about this talk on GitHub: \u2b50\ufe0f\ud83d\udc19\nhttps://github.com/TABConf/7.tabconf.com/issues/33\n\n\ud83c\udf31\ud83e\uddf0 Explore bdk-floresta\nA work in progress BDK chain source crate that uses floresta-chain + floresta-wire to run a local, trustless node and wallet directly on your device \ud83d\udcf2\ud83e\uddf1\nPerfect for mobile and low spec setups \u26a1\ufe0f\n\n\ud83e\udde0 What this talk covers\n\ud83c\udf33 Utreexo 101\nMerkle proofs, validation, and bridge nodes\n\ud83d\udd0d How Floresta leverages Utreexo and how it differs from utreexod\n\ud83c\udfd7\ufe0f A clear BDK architecture overview\n\ud83c\udfac Live demo\nCreating and syncing a wallet using the crate \u2705\n\n\ud83c\udfaf If you\u2019re a dev or a Bitcoin enthusiast who wants lightweight, self contained wallets that can run anywhere, this one\u2019s for you \ud83d\udee0\ufe0f\ud83d\udfe0\n\n\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\u26a1\ufe0f\ud83d\udee0\ufe0f\n\n\ud83d\udfe0 TABConf is a technical Bitcoin conference built for builders. We bring protocol + application devs together to collaborate, debate, and push Bitcoin forward. \ud83e\udde0\ud83d\udd27\n\n\ud83c\udfa5 On this channel you\u2019ll find:\n\ud83d\udde3\ufe0f Full talks \u2022 \ud83e\uddd1\u200d\ud83c\udfeb workshops \u2022 \ud83e\udde9 panels\n\ud83d\udee0\ufe0f Builder Days sessions \u2022 \ud83d\udd0d deep dives on:\n\ud83e\uddf1 Bitcoin Core \u2022 \u26a1\ufe0f Lightning \u2022 \ud83d\udd75\ufe0f privacy \u2022 \ud83d\udd10 security \u2022 \ud83e\uddf0 the tooling teams ship with\n\n\ud83c\udf9f\ufe0f TABConf 8 tickets are on sale now!\n\ud83d\uddd3\ufe0f Oct 12\u201315, 2026 \u2022 \ud83d\udccd Atlanta, GA\n\ud83c\udfdb\ufe0f Georgia Tech Exhibition Hall\n\n\ud83c\udfab TABConf 8 Tickets\n\ud83d\udfe0 Pay with Bitcoin: https://checkout.opennode.com/p/7d51f71f-f3e6-4159-bbfa-3a231d14e5b8\n\n\ud83d\udcb3 Pay with Stripe: https://buy.stripe.com/00w4gzapSf0o4ubg2mdQQ0b\n\n\ud83c\udf10 TABConf Website\nhttps://tabconf.com\n\n\ud83d\udd17 All links hub\nhttps://linktr.ee/tabconf\n\n\ud83e\udec2 TABConf Community\n\ud83d\udcac Discord: https://discord.gg/TRaX8M7amU\n\n\ud83d\udc26 Follow us on X\nhttps://x.com/tabconf\n\n\ud83c\udfa7 Subscribe to the TABConf Podcast\n\ud83c\udf4e Apple Podcasts: https://podcasts.apple.com/us/podcast/tabconf-sessions/id1867836916\n\n\ud83d\udfe2 Spotify: https://open.spotify.com/show/11Ram7ccTjBeiwhYoDVtF4?si=ec8bab9fdc2945cd\n\n\u26f2\ufe0f Fountain: https://fountain.fm/show/fqYiANm1II8INYOodXaj\n\n\u2b50\ufe0f Star us on GitHub\n\ud83d\udc19 https://github.com/TABConf",
+        "tags": [
+            "tabconf",
+            "bitcoin",
+            "2025",
+            "tabconf 7",
+            "technology",
+            "conference",
+            "atlanta",
+            "bdk-floresta",
+            "BDK",
+            "Bitcoin development",
+            "Bitcoin wallet",
+            "Floresta",
+            "Utreexo",
+            "trustless wallet",
+            "developer",
+            "merkle"
+        ],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-02-22T232609Z.json"
+}
